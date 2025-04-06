@@ -1,0 +1,114 @@
+[
+    {
+        "id": "wheat",
+        "name": "Wheat",
+        "image": "Assets/images/wheat.jpg",
+        "info": "Wheat is a staple food grain widely grown in Rajasthan, mainly in the winter season.",
+        "season": "Rabi (Winter)",
+        "soil": "Loamy soil with good drainage"
+    },
+    {
+        "id": "barley",
+        "name": "Barley",
+        "image": "Assets/images/Barley.jpg",
+        "info": "Barley is another important Rabi crop grown in Rajasthan, used for food and brewing.",
+        "season": "Rabi (Winter)",
+        "soil": "Well-drained loamy or sandy soil"
+    },
+    {
+        "id": "bajra",
+        "name": "Bajra (Pearl Millet)",
+        "image": "Assets/images/Bajra.jpg",
+        "info": "Bajra is a major millet crop, highly suitable for the arid regions of Rajasthan.",
+        "season": "Kharif (Monsoon)",
+        "soil": "Sandy and well-drained soil"
+    },
+    {
+        "id": "maize",
+        "name": "Maize",
+        "image": "Assets/images/Maize.jpg",
+        "info": "Maize is widely cultivated in Rajasthan, mainly used as fodder and food.",
+        "season": "Kharif (Monsoon)",
+        "soil": "Loamy soil with good fertility"
+    },
+    {
+        "id": "mustard",
+        "name": "Mustard",
+        "image": "Assets/images/Mustard.jpg",
+        "info": "Rajasthan is the leading producer of mustard, used for oil production.",
+        "season": "Rabi (Winter)",
+        "soil": "Well-drained loamy or sandy soil"
+    },
+    {
+        "id": "sesame",
+        "name": "Sesame",
+        "image": "Assets/images/Sesame.jpg",
+        "info": "Sesame is an important oilseed crop known for its high oil content.",
+        "season": "Kharif (Monsoon)",
+        "soil": "Light sandy loam soil"
+    },
+    {
+        "id": "groundnut",
+        "name": "Groundnut",
+        "image": "Assets/images/Groundnut.jpg",
+        "info": "Groundnut is a major oilseed crop grown in Rajasthan during the Kharif season.",
+        "season": "Kharif (Monsoon)",
+        "soil": "Well-drained sandy loam soil"
+    },
+    {
+        "id": "soybean",
+        "name": "Soybean",
+        "image": "Assets/images/Soybean.jpg",
+        "info": "Soybean is a widely grown oilseed crop in Rajasthan with multiple industrial uses.",
+        "season": "Kharif (Monsoon)",
+        "soil": "Loamy soil with organic content"
+    },
+    {
+        "id": "cotton",
+        "name": "Cotton",
+        "image": "Assets/images/Cotton.jpg",
+        "info": "Cotton is a significant cash crop used for textile production in Rajasthan.",
+        "season": "Kharif (Monsoon)",
+        "soil": "Black cotton soil or well-drained sandy loam"
+    },
+    {
+        "id": "sugarcane",
+        "name": "Sugarcane",
+        "image": "Assets/images/Sugarcane.jpg",
+        "info": "Sugarcane is cultivated in specific regions of Rajasthan for sugar production.",
+        "season": "Annual",
+        "soil": "Deep fertile loamy soil with high moisture retention"
+    },
+    {
+        "id": "guar",
+        "name": "Guar",
+        "image": "Assets/images/guar.jpg",
+        "info": "Guar is mainly grown for guar gum, which has multiple industrial applications.",
+        "season": "Kharif (Monsoon)",
+        "soil": "Sandy loam soil with low moisture requirement"
+    },
+    {
+        "id": "coriander",
+        "name": "Coriander",
+        "image": "Assets/images/Coriander.jpg",
+        "info": "Rajasthan is a leading producer of coriander, used as a spice in Indian cuisine.",
+        "season": "Rabi (Winter)",
+        "soil": "Well-drained loamy soil"
+    },
+    {
+        "id": "cumin",
+        "name": "Cumin",
+        "image": "Assets/images/Cumin.jpg",
+        "info": "Cumin is a major spice crop in Rajasthan, known for its strong flavor.",
+        "season": "Rabi (Winter)",
+        "soil": "Well-drained sandy loam soil"
+    },
+    {
+        "id": "garlic",
+        "name": "Garlic",
+        "image": "Assets/images/Garlic.jpg",
+        "info": "Garlic is widely grown in Rajasthan and used in cooking and medicine.",
+        "season": "Rabi (Winter)",
+        "soil": "Sandy loam with good organic content"
+    }
+]

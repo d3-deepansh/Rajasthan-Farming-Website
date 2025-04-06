@@ -1,0 +1,37 @@
+[
+    {
+        "id": "PMKSY",
+        "name": "Pradhan Mantri Krishi Sinchayee Yojana",
+        "summary": "A government scheme for water resource management and irrigation.",
+        "benefits": "Provides financial support for irrigation development."
+    },
+    {
+        "id": "PKVY",
+        "name": "Paramparagat Krishi Vikas Yojana",
+        "summary": "Promotes organic farming among small and marginal farmers.",
+        "benefits": "Financial assistance for organic certification and training."
+    },
+    {
+        "id": "PMFBY",
+        "name": "Pradhan Mantri Fasal Bima Yojana",
+        "summary": "A crop insurance scheme to protect farmers against crop loss.",
+        "benefits": "Covers natural calamities, pests, and diseases."
+    },
+    
+        {
+            "id": 1,
+            "name": "PM-KISAN",
+            "description": "Provides financial assistance to small farmers.",
+            "benefits": "Rs. 6000 per year in three equal installments.",
+            "eligibility": "Small and marginal farmers in India."
+        },
+        {
+            "id": 2,
+            "name": "Kisan Credit Card",
+            "description": "Provides credit to farmers for agricultural needs.",
+            "benefits": "Low-interest loans for seeds, fertilizers, and equipment.",
+            "eligibility": "All farmers involved in agriculture."
+        }
+    
+    
+]
