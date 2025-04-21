@@ -1,0 +1,132 @@
+/* Global Body Styling */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #fff9f0;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+/* Header Styling */
+header {
+  background-color: #8b0000;
+  color: gold;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+/* Main Content Area */
+main {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* Dropdown Container */
+.dropdown-container {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+/* Dropdown Styling */
+select {
+  padding: 10px 15px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 2px solid #8b0000;
+  background-color: #fff;
+  transition: all 0.3s ease;
+}
+
+select:hover {
+  border-color: #d4a017;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+select:focus {
+  outline: none;
+  border-color: #d4a017;
+}
+
+/* Weather Card Styling */
+.weather-card {
+  background-color: #fff3cd;
+  padding: 25px;
+  border-radius: 15px;
+  border: 2px solid #d4a017;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
+}
+
+.weather-card h2 {
+  color: #8b0000;
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.weather-card p {
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
+
+/* Hidden Class for Weather Card */
+.hidden {
+  display: none;
+}
+
+/* Season Image Styling */
+.season-img {
+  margin-top: 20px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  border: 2px solid #ffd700;
+  transition: all 0.3s ease;
+}
+
+/* Top Navigation Styling */
+.top-nav {
+  text-align: center;
+  margin-top: 10px;
+}
+
+/* Back Button Styling */
+.back-button {
+  display: inline-block;
+  background-color: #8b0000;
+  color: gold;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.back-button:hover {
+  background-color: #a30000;
+  transform: scale(1.1);
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+  main {
+    padding: 15px;
+  }
+
+  .weather-card {
+    padding: 20px;
+  }
+
+  select {
+    font-size: 14px;
+    padding: 8px 12px;
+  }
+
+  .back-button {
+    padding: 8px 16px;
+    font-size: 14px;
+  }
+}

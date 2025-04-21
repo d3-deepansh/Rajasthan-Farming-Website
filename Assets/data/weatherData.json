@@ -1,0 +1,42 @@
+[
+  {
+    "region": "Jaipur",
+    "summerTemp": "35-45°C",
+    "winterTemp": "5-15°C",
+    "rainfall": "600 mm",
+    "suitableCrops": ["Wheat", "Barley", "Mustard", "Gram"],
+    "image": "Assets/images/barley.jpg"
+  },
+  {
+    "region": "Jodhpur",
+    "summerTemp": "40-46°C",
+    "winterTemp": "8-18°C",
+    "rainfall": "300 mm",
+    "suitableCrops": ["Bajra", "Guar", "Moong", "Cumin"],
+    "image": "Assets/images/Bajra.jpg"
+  },
+  {
+    "region": "Udaipur",
+    "summerTemp": "30-40°C",
+    "winterTemp": "5-18°C",
+    "rainfall": "700 mm",
+    "suitableCrops": ["Maize", "Soybean", "Wheat", "Rice"],
+    "image": "Assets/images/Maize.jpg"
+  },
+  {
+    "region": "Bikaner",
+    "summerTemp": "42-48°C",
+    "winterTemp": "5-12°C",
+    "rainfall": "260 mm",
+    "suitableCrops": ["Bajra", "Moong", "Guar", "Sesame"],
+    "image": "Assets/images/guar.jpg"
+  },
+  {
+    "region": "Kota",
+    "summerTemp": "35-43°C",
+    "winterTemp": "7-16°C",
+    "rainfall": "900 mm",
+    "suitableCrops": ["Rice", "Wheat", "Soybean", "Sugarcane"],
+    "image": "Assets/images/Sugarcane.jpg"
+  }
+]

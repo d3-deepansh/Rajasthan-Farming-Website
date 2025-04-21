@@ -1,0 +1,55 @@
+{
+    "tutorials": [
+      {
+        "title": "Soil Preparation",
+        "description": "Learn how to properly prepare the soil for optimal crop yield.",
+        "videoUrl": "https://www.youtube.com/embed/bzLFB4GPyVE"
+      },
+      {
+        "title": "Seed Selection",
+        "description": "Understand how to choose the best seeds for your farming conditions.",
+        "videoUrl": "https://www.youtube.com/embed/w3dBTWfES8Q"
+      },
+      {
+        "title": "Sowing Methods",
+        "description": "Various methods of sowing seeds for healthy germination and growth.",
+        "videoUrl": "https://www.youtube.com/embed/mei_AjseXAg"
+      },
+      {
+        "title": "Irrigation Techniques",
+        "description": "Different ways to water your crops efficiently.",
+        "videoUrl": "https://www.youtube.com/embed/QYGaGKaFr70"
+      },
+      {
+        "title": "Drip Irrigation Setup",
+        "description": "Step-by-step guide to setting up a drip irrigation system.",
+        "videoUrl": "https://www.youtube.com/embed/WBcxnO8jdyE"
+      },
+      {
+        "title": "Rainwater Harvesting",
+        "description": "Harvest rainwater and use it for agricultural purposes.",
+        "videoUrl": "https://www.youtube.com/embed/j-rAoL8ubeg"
+      },
+      {
+        "title": "Natural Pest Control",
+        "description": "Protect your crops from pests using organic and natural methods.",
+        "videoUrl": "https://www.youtube.com/embed/Uo05345F1C8"
+      },
+      {
+        "title": "Plant Disease Management",
+        "description": "How to detect and treat common plant diseases effectively.",
+        "videoUrl": "https://www.youtube.com/embed/zj9NHDhYWbU"
+      },
+      {
+        "title": "Technology in Farming",
+        "description": "Explore how modern technology is transforming agriculture.",
+        "videoUrl": "https://www.youtube.com/embed/RS29M7vrBJE"
+      },
+      {
+        "title": "Smart Farming with Apps",
+        "description": "Use mobile applications to enhance productivity on your farm.",
+        "videoUrl": "https://www.youtube.com/embed/Vauqyn1WJMU"
+      }
+    ]
+  }
+  

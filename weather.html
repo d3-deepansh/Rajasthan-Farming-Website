@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rajasthan Region Weather</title>
+  <link rel="stylesheet" href="Assets/css/weather.css" />
+</head>
+
+<body>
+
+  <header>
+    <h1>🌾 Rajasthan Region-wise Weather Info</h1>
+  </header>
+
+  <nav class="top-nav">
+    <a href="home.html" class="back-button">🔙 Back to Home</a>
+  </nav>
+
+  <main>
+    <div class="dropdown-container">
+      <label for="regionSelector">Select a Region:</label>
+      <select id="regionSelector">
+        <option value="">-- Select Region --</option>
+      </select>
+    </div>
+
+    <div id="weatherCard" class="weather-card hidden">
+      <h2 id="regionName"></h2>
+      <p><strong>🌞 Summer Temperature:</strong> <span id="summerTemp"></span></p>
+      <p><strong>❄️ Winter Temperature:</strong> <span id="winterTemp"></span></p>
+      <p><strong>🌧️ Rainfall:</strong> <span id="rainfall"></span></p>
+      <p><strong>🌿 Suitable Crops:</strong> <span id="cropsList"></span></p>
+
+      <!-- The image of the season -->
+      <img id="seasonImage" src="" alt="Season Image" class="season-img" />
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Rajasthan Farming - All Rights Reserved</p>
+  </footer>
+
+  <script src="Assets/js/weather.js"></script>
+</body>
+
+</html>

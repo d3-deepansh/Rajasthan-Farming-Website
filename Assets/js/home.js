@@ -1,6 +1,19 @@
 document.addEventListener("DOMContentLoaded", function () {
     console.log("Home page loaded successfully");
 
+     // Logout button logic
+     const logoutBtn = document.getElementById("logoutBtn");
+     if (logoutBtn) {
+         logoutBtn.addEventListener("click", function () {
+             // Clear login data (adjust as per your storage logic)
+             localStorage.removeItem("loggedInUser");
+             sessionStorage.removeItem("loggedInUser");
+ 
+             // Redirect to login page
+             window.location.href = "login.html";
+         });
+     }
+     
     const ctaButton = document.querySelector(".cta-button");
     if (ctaButton) {
         ctaButton.addEventListener("mouseover", function () {

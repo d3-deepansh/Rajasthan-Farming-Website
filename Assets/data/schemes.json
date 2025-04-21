@@ -1,37 +1,57 @@
 [
     {
-        "id": "PMKSY",
-        "name": "Pradhan Mantri Krishi Sinchayee Yojana",
-        "summary": "A government scheme for water resource management and irrigation.",
-        "benefits": "Provides financial support for irrigation development."
+      "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "launched": "2019",
+      "objective": "Provide income support to all landholding farmers.",
+      "benefit": "Rs. 6,000 per year in three equal installments directly to farmers’ bank accounts."
     },
     {
-        "id": "PKVY",
-        "name": "Paramparagat Krishi Vikas Yojana",
-        "summary": "Promotes organic farming among small and marginal farmers.",
-        "benefits": "Financial assistance for organic certification and training."
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "launched": "2016",
+      "objective": "Crop insurance to protect farmers against crop loss due to natural calamities, pests, or diseases.",
+      "benefit": "Low premium rates; claim support for crop damage."
     },
     {
-        "id": "PMFBY",
-        "name": "Pradhan Mantri Fasal Bima Yojana",
-        "summary": "A crop insurance scheme to protect farmers against crop loss.",
-        "benefits": "Covers natural calamities, pests, and diseases."
+      "name": "Soil Health Card Scheme",
+      "launched": "2015",
+      "objective": "Promote soil testing and balanced use of fertilizers.",
+      "benefit": "Farmers receive soil health cards with crop-wise nutrient recommendations."
     },
-    
-        {
-            "id": 1,
-            "name": "PM-KISAN",
-            "description": "Provides financial assistance to small farmers.",
-            "benefits": "Rs. 6000 per year in three equal installments.",
-            "eligibility": "Small and marginal farmers in India."
-        },
-        {
-            "id": 2,
-            "name": "Kisan Credit Card",
-            "description": "Provides credit to farmers for agricultural needs.",
-            "benefits": "Low-interest loans for seeds, fertilizers, and equipment.",
-            "eligibility": "All farmers involved in agriculture."
-        }
-    
-    
-]
+    {
+      "name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+      "launched": "2015",
+      "objective": "Promote organic farming and sustainable agriculture.",
+      "benefit": "Financial assistance to farmers for organic input and certification."
+    },
+    {
+      "name": "Kisan Credit Card (KCC) Scheme",
+      "launched": "1998",
+      "objective": "Provide short-term credit to farmers for cultivation and other needs.",
+      "benefit": "Easy and low-interest credit access via KCC cards."
+    },
+    {
+      "name": "e-NAM (National Agriculture Market)",
+      "launched": "2016",
+      "objective": "Online trading platform for agricultural commodities.",
+      "benefit": "Better price discovery, transparency, and digital transactions."
+    },
+    {
+      "name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+      "launched": "2015",
+      "objective": "“Har Khet Ko Pani” – Improve irrigation efficiency and water use.",
+      "benefit": "Micro-irrigation support (like drip & sprinkler systems)."
+    },
+    {
+      "name": "Rashtriya Krishi Vikas Yojana (RKVY)",
+      "launched": "2007",
+      "objective": "Holistic development of agriculture and allied sectors.",
+      "benefit": "Funding to states for agriculture infrastructure and innovation."
+    },
+    {
+      "name": "National Mission on Sustainable Agriculture (NMSA)",
+      "launched": "Part of NAPCC",
+      "objective": "Promote sustainable farming practices to deal with climate change.",
+      "benefit": "Support for water conservation, soil management, and agroforestry."
+    }
+  ]
+  
